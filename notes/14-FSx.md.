@@ -1,0 +1,47 @@
+# Amazon FSx
+
+## What is Amazon FSx?
+
+Amazon FSx is a fully managed file storage service provided by AWS. It offers high-performance file systems optimized for specific workloads and operating systems.
+
+## Types of Amazon FSx
+
+* Amazon FSx for Windows File Server
+* Amazon FSx for Lustre
+* Amazon FSx for NetApp ONTAP
+* Amazon FSx for OpenZFS
+
+## Features
+
+* Fully managed service
+* High performance
+* Highly available
+* Supports Windows and Linux workloads
+* Automatically managed by AWS
+
+## Advantages
+
+* Easy deployment
+* High-speed file access
+* Reliable and scalable
+* Optimized for enterprise applications
+
+## Use Cases
+
+* Windows applications
+* High Performance Computing (HPC)
+* Machine Learning
+* Media processing
+* Enterprise file storage
+
+## Real Life Example
+
+A company runs a Windows-based application that requires a shared file system. Instead of managing its own file server, it uses Amazon FSx for Windows File Server to provide fast and reliable shared storage.
+
+## Key Points
+
+* FSx = Fully managed file system
+* File Storage
+* Optimized for specific workloads
+* Supports Windows and Linux
+* Managed by AWS
